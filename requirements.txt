@@ -3,3 +3,4 @@ pydub>=0.25.1
 streamlit-audiorecorder>=0.0.5
 pandas>=2.0.0
 plotly>=5.0.0
+librosa
