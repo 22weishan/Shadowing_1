@@ -1,5 +1,5 @@
 import streamlit as st
-import whisper
+import whisper 
 import os
 import tempfile
 
