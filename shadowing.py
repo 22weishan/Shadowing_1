@@ -1,3 +1,5 @@
+pip install streamlit openai-whisper torch
+
 import streamlit as st
 import whisper
 import os
