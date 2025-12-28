@@ -6,3 +6,4 @@ pydub>=0.25.1
 python-docx>=1.1.0
 PyPDF2>=3.0.0
 librosa
+pip install streamlit openai-whisper torch
